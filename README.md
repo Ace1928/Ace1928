@@ -11,6 +11,8 @@ A few things I'm working on:
 
 I'm also testing [NeuroForge Handbook on Poe](https://poe.com/NeuroForgeHandbook): an experimental English keyword lookup for handbook passages. Uses Poe points.
 
+For a small side experiment, try [Glyphshift Daily](https://ace1928.github.io/glyphshift-daily/): a free browser puzzle made with AI coding assistance. Shift rows and columns to restore the glyph mosaic.
+
 If any of this looks useful, give it a go. Feedback, bug reports and contributions are very welcome.
 
 Want to help keep the open-source work moving? **[Support it through GitHub Sponsors](https://github.com/sponsors/Ace1928).**
